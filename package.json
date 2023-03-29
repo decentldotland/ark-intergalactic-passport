@@ -1,0 +1,26 @@
+{
+  "name": "ark-intergalactic-passport",
+  "version": "0.0.1",
+  "description": "The intergalactic Web3 passport ",
+  "main": "./contract",
+  "scripts": {
+    "start": "echo intergalactic-passport"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decentldotland/ark-intergalactic-passport.git"
+  },
+  "keywords": [
+    "ark",
+    "decentland",
+    "identity",
+    "DID",
+    "web3"
+  ],
+  "author": "charmful0x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decentldotland/ark-intergalactic-passport/issues"
+  },
+  "homepage": "https://github.com/decentldotland/ark-intergalactic-passport#readme"
+}
